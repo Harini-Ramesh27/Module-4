@@ -11,8 +11,18 @@ To write a Python program that merges **two dictionaries** and combines their ke
 
 ## 🧾 Program
 
-Add code here
+a=eval(input())
+
+b=eval(input())
+
+c=a.copy()
+
+c.update(b)
+
+print(c)
 
 ## Output
+<img width="966" height="290" alt="image" src="https://github.com/user-attachments/assets/4b5a25d7-16e7-4439-8b6a-3725306facf3" />
 
 ## Result
+Thus the program executed successfully.
